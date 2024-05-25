@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Etl_Staging_Jardineria", "Etl_Staging_Jardineria\Etl_Staging_Jardineria.dtproj", "{8C66C968-8CDB-43F6-BBD6-A36D1F988798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C66C968-8CDB-43F6-BBD6-A36D1F988798}.Development|Default.ActiveCfg = Development
+		{8C66C968-8CDB-43F6-BBD6-A36D1F988798}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D0EFC2-3457-4892-A77D-9A3D46D17228}
+	EndGlobalSection
+EndGlobal
